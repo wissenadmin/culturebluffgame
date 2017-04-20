@@ -1,0 +1,290 @@
+{"quizlist":[  
+
+	{
+	"id":"1",
+	"question":"What is the value?",
+	"option1":"Tradition",
+	"option2":"Wittiness",
+	"option3":"Class-conscious",
+	"option4":"Fair Play",
+	"image":"CameronFinal.jpg",
+	"difficulty":"E",
+	"description":"British people value history and tradition.  Many of the traditions in Britain are connected with the monarchy.  Britain is a constitutional monarchy in which Queen Elizabeth II is head of state.  After a general election the leader of the party (David Cameron) that won a majority of votes goes to the Queen to ask her permission to form a new government.  The prime minster has a weekly audience with the Queen."
+	},
+	{
+	"id":"2",
+	"question":"What is the value?",
+	"option1":"Humour",
+	"option2":"Moderation",
+	"option3":"Tradition",
+	"option4":"Eccentricity",
+	"image":"Comedy1.jpg",
+	"difficulty":"E",
+	"description":"British people pride themselves on their sense of humour in particular irony, wittiness and satire. It is important to have a sense of humour and to not take oneself so seriously. Friends and colleagues exchanging remarks in a good humoured teasing way is called banter. Brits like to visit comedy clubs and comedians are celebrities in British culture." 
+	},
+	{
+	"id":"3",
+	"question":"What is the value?",
+	"option1":"Class-conscious",
+	"option2":"Eccentricity",
+	"option3":"Humour",
+	"option4":"Modesty",
+	"image":"SocialRadar.jpg",
+	"difficulty":"E",
+	"description":"The English of all social groups are fitted with a sort of social GPS or class radar that registers people’s position on the class map the minute they open their mouths to speak.  Class is defined by accent, wealth, education, hobbies and interests. Accent is the most obvious class indicator."
+	},
+	{
+	"id":"4",
+	"question":"What is the value?",
+	"option1":"Understatement",
+	"option2":"Eccentricity",
+	"option3":"Courtesy",
+	"option4":"Pragmatism",
+	"image":"BAflight.jpg",
+	"difficulty":"H",
+	"description":"The British value understatement, downplaying or stating that something is less important than it really is.  “We have a small problem” is an understated way of saying that we have a problem. In 1982 a British Airways flight was stopped by volcanic ash erupting from a volcano in Indonesia resulting in the failure of all four engines.The reason for the failure was not immediately apparent to the crew or air traffic control. Through quick thinking and skill the pilot was able to make an emergency landing in Jakarta. The captain’s announcement  to the passengers is a good example of British understatement."
+	},
+	{
+	"id":"5",
+	"question":"What is the value?",
+	"option1":"Stoicism",
+	"option2":"Tradition",
+	"option3":"Emotional Reserve",
+	"option4":"Pragmatism",
+	"image":"BlitzSpirit.jpg",
+	"difficulty":"H",
+	"description":"In Britain people value stoicism or emotional restraint in difficult situations. Keep Calm and Carry On was a motivational poster to raise morale produced by the British government  in 1939 in preparation for mass air attacks on major cities. The “Blitz Spirit” refers to endurance and defiance by the British as they endured eight months of German bombing."
+	},
+	{
+	"id":"6",
+	"question":"What is the value?",
+	"option1":"Self-deprecation",
+	"option2":"Courtesy",
+	"option3":"Humour",
+	"option4":"Understatement",
+	"image":"Bestman1.jpg",
+	"difficulty":"H",
+	"description":"British people value self-deprecation. Self-deprecation is to downplay one’s abilities or achievements.  As British people value modesty it is better to be self-deprecating in social situations than self-promoting. Self-deprecating humour is considered an attractive trait. However in the workplace self-assurance is more important."
+	},
+	{
+	"id":"7",
+	"question":"What is the value?",
+	"option1":"Class-conscious",
+	"option2":"Self-deprecation",
+	"option3":"Eccentricity",
+	"option4":"Understatement",
+	"image":"LandedGentry.jpg",
+	"difficulty":"E",
+	"description":"British are conscious of class and sensitive to class differences. Class is defined by accent, wealth, education, hobbies and interests. A third of the land in Britain is owned by aristocrats and rural gentry. Many aristocrats have kept their wealth,  however, others  have become poorer over time due to high inheritance tax and the expense of upkeeping  stately homes. The aristocrat in the cartoon is asset rich but cash poor as his house crumbles. He belongs to class of people saddled with a stately home that isn't really his to sell, only to maintain and pass on to the next generation."
+	},
+	{
+	"id":"8",
+	"question":"What is the value?",
+	"option1":"Fair Play",
+	"option2":"Pragmatism",
+	"option3":"Humour",
+	"option4":"Compromise",
+	"image":"UnwrittenRules.jpg",
+	"difficulty":"H",
+	"description":"Fair Play is a cultural ideal. It is about playing fair, respecting the rules and equal treatment for all concerned. In Britain it is important to respect the queue.  Jumping the queue, by pushing in front or cutting in line is a no-no. Brits like fair play.  Pushing in front is an affront to this sensibility and it's unlikely to be tolerated."
+	},
+	{
+	"id":"9",
+	"question":"What is the value?",
+	"option1":"Modesty",
+	"option2":"Privacy",
+	"option3":"Compromise",
+	"option4":"Indirectness",
+	"image":"RealityTV.jpg",
+	"difficulty":"E",
+	"description":"In Britain it is important to be modest or to appear modest  in social situations.  There is a prohibition on boasting or self-importance. One must not be openly competitive or tread openly on other people’s toes. Admitting to have a game plan or admitting that you want to win is taboo. The contestant in the reality TV show who divulges his intention to win is ostracized, evicted and voted out by the others."
+	},
+	{
+	"id":"10",
+	"question":"What is the value?",
+	"option1":"Class-conscious",
+	"option2":"Irony",
+	"option3":"Indirectness",
+	"option4":"Gradual Change",
+	"image":"Silverspoon.jpg",
+	"difficulty":"E",
+	"description":"Class is defined by accent, wealth, education, hobbies and interests. A private or independent education is considered a privilege and a conduit for upward social mobility in  England. Only 7% of children attend independent fee-paying schools,  however,  this privately educated elite dominate professions such as law, politics, medicine and journalism in England. The top echelon of independent schools are called public schools which were originally designed to train the elite to run the British empire. Privileged boys attend prep school, public school, Oxford or Cambridge university and become members of elite Oxbridge drinking clubs such as the Bullingdon Club."
+	},
+	{
+	"id":"11",
+	"question":"What is the value?",
+	"option1":"Love Animals",
+	"option2":"Humour",
+	"option3":"Privacy",
+	"option4":"Tradition",
+	"image":"Dogslife.jpg",
+	"difficulty":"E",
+	"description":"The British are a nation of animal lovers. More than half of Brits have a pet. Britain was the first country in the world to start a welfare charity for animals, the Society for Prevention of Cruelty to Animals. The Queen is renowned for her love of  dogs and horses.  Pembrokeshire Welsh Corgis are the preferred breed of  Queen Elizabeth II who has owned more than 30 during her reign. The corgis enjoy a privileged life at Buckingham Palace. It’s a dogs life is an expression of envy."
+	},
+	{
+	"id":"12",
+	"question":"What is the value?",
+	"option1":"Moderation",
+	"option2":"Compromise",
+	"option3":"Indirectness",
+	"option4":"Humour",
+	"image":"Marmite.jpg",
+	"difficulty":"H",
+	"description":"British people value moderation and  dislike excess or intensity of any kind. They value the middle ground as opposed to extremes of any kind.  Britain could be described as a nation of moderates divided by Marmite.  Marmite is a salty spread made from yeast extract and is an iconic product in Britain.  People either love it or hate it. Marmite is often used to describe events or people which are polarising."
+	},
+	{
+	"id":"13",
+	"question":"What is the value?",
+	"option1":"Class-conscious",
+	"option2":"Eccentricity",
+	"option3":"Tradition",
+	"option4":"Humour",
+	"image":"AscotHorses.jpg",
+	"difficulty":"H",
+	"description":"'The Season' is a series of cultural and sporting events held during the summer in England. “The Season” was historically the preserve of the upper classes. Royal Ascot is a glamourous five day flat racing event that features a daily horse-drawn procession from Windsor to Ascot led by the Queen. It is known for it’s draconian dress code for hats, tailcoats and hemlines. Attendants ensure that attendees observe the dress code. Different enclosures ensure separation of the social classes. Membership of the Royal Enclosure is restricted to those who have been sponsored by an existing member who has attended for at least four years."
+	},
+	{
+	"id":"14",
+	"question":"What is the value?",
+	"option1":"Compromise",
+	"option2":"Pragmatism",
+	"option3":"Tradition",
+	"option4":"Stoicism",
+	"image":"MagnaCarta.jpg",
+	"difficulty":"H",
+	"description":"British people value compromise or the ability to make concessions. In 1215 King John 1  an absolute monarch was forced by his barons to sign the Magna Carta  or The Great Charter.  This is one of the most important documents in British history as it established the principle that the King’s power was not absolute, with everyone  subject to the law, even the king and it guaranteed the rights of individuals, the right to justice and a fair trial."
+	},
+	{
+	"id":"15",
+	"question":"What is the value?",
+	"option1":"Class-conscious",
+	"option2":"Moderation",
+	"option3":"Fair Play",
+	"option4":"Humour",
+	"image":"Essex.jpg",
+	"difficulty":"E",
+	"description":"British are very conscious of class and sensitive to class differences. The most obvious class indicator is accent.  The reality TV Show “The Only Way Is Essex” or TOWIE shows the working class and their language cockney. The headmaster does not want his students to speak cockney as it may not reflect favourably on them when they attend college or job interviews.<br><br><u>Guide Cockney</u><br><br>Geezer: a bloke often older or unusual in some way.<br>Bird: Woman.<br>Reem:  Cool.<br>Well Jel: Expressing jealousy at another person's success or fortune.<br>Totes Emosh: An overwhelming situation that brings up feelings.<br>Hundred 'cent:I wholeheartedly agree with what you just said.<br>Well educational: Moderately intellectual."
+	},
+	{
+	"id":"16",
+	"question":"What is the value?",
+	"option1":"Support the Underdog ",
+	"option2":"Humour ",
+	"option3":"Fair Play",
+	"option4":"Compromise",
+	"image":"EddieEagle.jpg",
+	"difficulty":"E",
+	"description":"The British tend to support and cheer for the underdog. Eddie 'The Eagle” Edwards, became a celebrity for his underdog performance as Britain’s first Olympic ski jumper during the 1988 Calgary Games finishing last in the ski jumping event. He narrowly missed out on being selected for the British Olympic downhill skiing team.  Undeterred, he switched to ski-jumping when he realised that no one else in the UK competed in that sport. He had been jumping for 20 months before the Olympics while his competitors had been jumping for 20 years. Eddie became a symbol of heroic failure."
+	},
+	{
+	"id":"17",
+	"question":"What is the value?",
+	"option1":"Emotional Reserve",
+	"option2":"Self-deprecation",
+	"option3":"Understatement",
+	"option4":"Indirectness",
+	"image":"Callbond.jpg",
+	"difficulty":"E",
+	"description":"British people value emotional reserve or controlling the emotions.  An overly demonstrative expression of feelings tends to be frowned upon in British culture. The fictional British secret service agent James Bond is someone who exudes emotional reserve responding coolly and calmly to any crisis."
+	},
+	{
+	"id":"18",
+	"question":"What is the value?",
+	"option1":"Tradition ",
+	"option2":"Emotional Reserve",
+	"option3":"Humour",
+	"option4":"Indirectness",
+	"image":"HenryVIII.jpg",
+	"difficulty":"E",
+	"description":"The Church of England is the established or state church in England. The Queen is the Supreme Governor of the Church of England and retains the title “Defender of the Faith”. England was a Catholic country until Henry VIII founded The Church of England in 1534. He established his own church because the pope would not permit him to divorce his first wife Catherine of Aragon  in order to marry Anne Boleyn who he hoped would bear him a son. The Catholic church in England owned 30% of the land in England at that time.  Henry VIII took the land from the Catholic Church and  gave it to his supporters."
+	},
+	{
+	"id":"19",
+	"question":"What is the value?",
+	"option1":"Eccentricity",
+	"option2":"Humour ",
+	"option3":"Stoicism",
+	"option4":"Privacy",
+	"image":"Planespotter.jpg",
+	"difficulty":"E",
+	"description":"British people admire eccentricity. Eccentrics are people who may dress oddly, have unusual lifestyles or have obsessions with unusual hobbies. Individuality, quirkiness and oddity are traits that are valued in England.  Plane and train spotting is considered an eccentric hobby."
+	},
+	{
+	"id":"20",
+	"question":"What is the value?",
+	"option1":"Emotional Reserve",
+	"option2":"Moderation",
+	"option3":"Indirectness",
+	"option4":"Support the Underdog",
+	"image":"FranceBritain.jpg",
+	"difficulty":"H",
+	"description":"British people value emotional reserve or controlling emotions.  An overly demonstrative expression of feelings tends to be frowned upon in British culture. The cartoon compares the strong emotional response of the French to austerity cuts versus the more muted response of the British. The phrases “chin up”, “never mind”, “mustn't grumble” and maintaining a “stiff upper lip” are typically British reactions to dealing with adverse situations."
+	},
+	{
+	"id":"21",
+	"question":"What is the value?",
+	"option1":"Privacy",
+	"option2":"Pragmatism",
+	"option3":"Humour",
+	"option4":"Eccentricity",
+	"image":"HomeCastle.jpg",
+	"difficulty":"E",
+	"description":"British value privacy. “An English man’s home is his castle” is a proverb that illustrates the value of privacy. In Britain people are taught to mind their own business, to keep themselves to themselves, not to pry, make a scene or draw attention to themselves.  In Britain privacy is also reflected in the divide between work and personal life."
+	},
+	{
+	"id":"22",
+	"question":"What is the value?",
+	"option1":"Courtesy",
+	"option2":"Eccentricity",
+	"option3":"Fair Play",
+	"option4":"Privacy",
+	"image":"Bumping1.jpg",
+	"difficulty":"E",
+	"description":"In Britain politeness and courtesy are considered important.  In Britain if you bump into someone, the default response is to say sorry. Courtesy also includes not intruding on people’s privacy and personal space."
+	},
+	{
+	"id":"23",
+	"question":"What is the value?",
+	"option1":"Indirectness",
+	"option2":"Moderation",
+	"option3":"Eccentricity",
+	"option4":"Compromise",
+	"image":"BritishBoss1.jpg",
+	"difficulty":"H",
+	"description":"British people have a cultural preference for an indirect communication style. They prefer hints and suggestions to get a message across as opposed to stating it directly.  In Britain if a boss makes a suggestion he is literally telling you what he wants you to do."
+	},
+	{
+	"id":"24",
+	"question":"What is the value?",
+	"option1":"Class-conscious",
+	"option2":"Privacy",
+	"option3":"Fair Play",
+	"option4":"Compromise",
+	"image":"GentlemansClub.jpg",
+	"difficulty":"H",
+	"description":"British people are class conscious. Class is defined by accent, wealth, education and interests. The gentleman’s club is a British institution. These are mostly all-male clubs  for the wealthy and connected based around St James’s and Pall Mall. These members-only clubs  found prominence amongst the British upper class in the 18th century. Gaining entry to these elite establishments is based on nepotism. Members need to be nominated by two existing members and clubs have long waiting lists. Money alone cannot buy you club membership or allow you to jump the long waiting list."
+	},
+	{
+	"id":"25",
+	"question":"What is the value?",
+	"option1":"Politeness",
+	"option2":"Emotional Reserve",
+	"option3":"Humour",
+	"option4":"Privacy",
+	"image":"Weathertalk.jpg",
+	"difficulty":"E",
+	"description":"The British man in the cartoon is making polite conversation with the Japanese woman. He engages in weather-talk as it is a safe topic of conversation. In Britain 91% of all verbal exchanges are about the weather. The British like to stick to safe topics of conversation when communicating with those  they do not know very well. Weather talk can be an ice-breaker in conversation and is used to fill awkward silences or as a default topic to revert to at any time. The weather in Britain changes frequently so there is always something to talk about.  The four seasons of the year are quite distinct in Japan while in Britain the weather can change hour by hour and day by day."
+	},
+	{
+	"id":"26",
+	"question":"What is the value?",
+	"option1":"Self-deprecation",
+	"option2":"Humour",
+	"option3":"Indirectness",
+	"option4":"Eccentricity",
+	"image":"BritsDating1.jpg",
+	"difficulty":"H",
+	"description":"In Britain it is important to be modest or appear modest. This modesty should not be taken at face value. It is better to be self-deprecating than self-promoting  in a social situation. Self-deprecation is to downplay your abilities or achievements. Self-deprecating humour is considered an attractive trait."
+	}
+]
+}

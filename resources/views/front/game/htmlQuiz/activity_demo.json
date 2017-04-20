@@ -1,0 +1,25 @@
+{"quizlist":[  
+	{
+	"id":"1",
+	"question":"What is the value?",
+	"option1":"Class-conscious",
+	"option2":"Eccentricity",
+	"option3":"Tradition",
+	"option4":"Humour",
+	"image":"AscotHorses.jpg",
+	"difficulty":"H",
+	"description":"'The Season' is a series of cultural and sporting events held during the summer in England. “The Season” was historically the preserve of the upper classes. Royal Ascot is a glamourous five day flat racing event that features a daily horse-drawn procession from Windsor to Ascot led by the Queen. It is known for it’s draconian dress code for hats, tailcoats and hemlines. Attendants ensure that attendees observe the dress code. Different enclosures ensure separation of the social classes. Membership of the Royal Enclosure is restricted to those who have been sponsored by an existing member who has attended for at least four years."
+	},
+	{
+	"id":"2",
+	"question":"What is the value?",
+	"option1":"Modesty",
+	"option2":"Fair Play",
+	"option3":"Compromise",
+	"option4":"Courtesy",
+	"image":"Wondergoal.jpg",
+	"difficulty":"E",
+	"description":"In Britain it is important to be modest or to appear modest in social situations.  There is a prohibition on boasting or self-importance. In this cartoon the footballer responds  modestly to the question regarding his fantastic performance and acknowledges twice how well his team contributed to his success. "
+	}
+]
+}
